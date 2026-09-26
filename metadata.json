@@ -1,0 +1,7 @@
+{
+  "name": "LOCK IN — Performance Discipline & Habit System",
+  "description": "Minimalistisches WHOOP-inspiriertes Performance-Dashboard mit transparentem Lock-In Score, Habit Tracking, Deep Work Sessions und reflexiver Journaling-Architektur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
